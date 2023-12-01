@@ -107,4 +107,4 @@
 など
 
 #Figmaのリンク先です。
-https://www.figma.com/file/BdHqSv3tc7VbeuidRCBWNA/How-to-solve-it-%3F?type=design&node-id=57%3A1578&mode=design&t=C7sQU2JrYi5SYsfc-1
+https://www.figma.com/file/BdHqSv3tc7VbeuidRCBWNA/How-to-solve-it-%3F?type=design&node-id=77%3A2&mode=design&t=NUzBdyC8fhNOzBli-1
